@@ -1,0 +1,33 @@
+# Node modules
+data/
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+
+# Logs
+logs
+*.log
+
+# Diretórios de build e dependências
+/build/
+/dist/
+/out/
+/.next/
+/.nuxt/
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.*.local
+
+# Cache
+/.cache/
+/.parcel-cache/
+/.vite/
+/.turbo/
+
+# VSCode e IDEs
+.vscode/
+.idea/
+.DS_Store
